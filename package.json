@@ -24,7 +24,7 @@
     "node": ">=22"
   },
   "dependencies": {
-    "@red-cup-engineering/eavt-services-section": "workspace:*"
+    "@red-cup-engineering/eavt-engineering-services-section": "workspace:*"
   },
   "sideEffects": false,
   "repository": {
